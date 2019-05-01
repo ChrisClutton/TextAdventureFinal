@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dungeon title = "Spooky Dungeon" author = "Chris Clutton">
+    <room>
+        <name>Entrance(0)</name>
+        <north>3</north>
+        <west>1</west>
+    </room>
+    <room>
+        <name>Path to Crypt(1)</name>
+        <east>0</east>
+        <west>2</west>
+    </room>
+    <room>
+        <name>Collapsed Stairs(2)</name>
+        <east>1</east>
+    </room>
+    <room>
+        <name>Corridor S(3)</name>
+        <east>5</east>
+        <south>0</south>
+        <west>4</west>
+    </room>
+    <room>
+        <name>Corridor SW(4)</name>
+        <north>6</north>
+        <east>3</east>
+    </room>
+    <room>
+        <name>Corridor SE(5)</name>
+        <north>8</north>
+        <west>3</west>
+    </room>
+    <room>
+        <name>Great Hall SW(6)</name>
+        <north>9</north>
+        <east>7</east>
+        <south>4</south>
+    </room>
+    <room>
+        <name>Great Hall S(7)</name>
+        <north>10</north>
+        <east>8</east>
+        <west>6</west>
+    </room>
+    <room>
+        <name>Great Hall SE(8)</name>
+        <north>11</north>
+        <east>19</east>
+        <south>5</south>
+        <west>7</west>
+    </room>
+    <room>
+        <name>Great Hall NW(9)</name>
+        <north>12</north>
+        <east>10</east>
+        <south>6</south>
+    </room>
+    <room>
+        <name>Great Hall N(10)</name>
+        <east>11</east>
+        <south>7</south>
+        <west>9</west>
+    </room>
+    <room>
+        <name>Great Hall NE(11)</name>
+        <south>8</south>
+        <west>10</west>
+    </room>
+    <room>
+        <name>Balcony W(12)</name>
+        <east>13</east>
+        <south>9</south>
+        <west>14</west>
+    </room>
+    <room>
+        <name>Balcony E(13)</name>
+        <west>12</west>
+    </room>
+    <room>
+        <name>Crypt Stairs(14)</name>
+        <east>12</east>
+        <west>15</west>
+    </room>
+    <room>
+        <name>Crypt N(15)</name>
+        <east>14</east>
+        <south>16</south>
+    </room>
+    <room>
+        <name>Crypt C(16)</name>
+        <north>15</north>
+        <south>17</south>
+    </room>
+    <room>
+        <name>Crypt S(17)</name>
+        <north>16</north>
+    </room>
+    <room>
+        <name>Kitchen(18)</name>
+        <east>6</east>
+    </room>
+    <room>
+        <name>Armoury Path(19)</name>
+        <north>20</north>
+        <east>21</east>
+        <west>8</west>
+    </room>
+    <room>
+        <name>Armoury(20)</name>
+        <south>19</south>
+    </room>
+    <room>
+        <name>Throne Room Path(21)</name>
+        <north>22</north>
+        <west>19</west>
+    </room>
+    <room>
+        <name>Throne Room(22)</name>
+        <north>23</north>
+        <south>21</south>
+    </room>
+    <room>
+        <name>Exit(23)</name>
+        <south>22</south>
+    </room>
+</dungeon>
